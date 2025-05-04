@@ -1,0 +1,9 @@
+{
+        "title": "Tempo Cup",
+        "cup": "tempo",
+        "cp": 1500,
+        "meta": "tempo",
+        "showCup": true,
+        "showFormat": true,
+        "showMeta": true
+    }
